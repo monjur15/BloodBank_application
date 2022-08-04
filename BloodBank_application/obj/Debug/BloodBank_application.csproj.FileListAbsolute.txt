@@ -69,4 +69,3 @@ D:\ASPdotNet\MVC.NET\BloodBank_application\BloodBank_application\obj\Debug\Blood
 D:\ASPdotNet\MVC.NET\BloodBank_application\BloodBank_application\obj\Debug\BloodBank_application.csproj.CopyComplete
 D:\ASPdotNet\MVC.NET\BloodBank_application\BloodBank_application\obj\Debug\BloodBank_application.dll
 D:\ASPdotNet\MVC.NET\BloodBank_application\BloodBank_application\obj\Debug\BloodBank_application.pdb
-D:\ASPdotNet\MVC.NET\BloodBank_application\BloodBank_application\obj\Debug\BloodBank_application.csproj.AssemblyReference.cache
